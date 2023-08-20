@@ -1,2 +1,2 @@
 # pandas
-This is my data analysis set analyzed with python pandas and matplotlib
+This data set is analyzed with python pandas and matplotlib
